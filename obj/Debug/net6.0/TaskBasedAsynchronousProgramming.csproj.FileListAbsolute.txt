@@ -1,0 +1,15 @@
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/bin/Debug/net6.0/TaskBasedAsynchronousProgramming
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/bin/Debug/net6.0/TaskBasedAsynchronousProgramming.deps.json
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/bin/Debug/net6.0/TaskBasedAsynchronousProgramming.runtimeconfig.json
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/bin/Debug/net6.0/TaskBasedAsynchronousProgramming.dll
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/bin/Debug/net6.0/TaskBasedAsynchronousProgramming.pdb
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.csproj.AssemblyReference.cache
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.AssemblyInfoInputs.cache
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.AssemblyInfo.cs
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.csproj.CoreCompileInputs.cache
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.dll
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/refint/TaskBasedAsynchronousProgramming.dll
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.pdb
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/TaskBasedAsynchronousProgramming.genruntimeconfig.cache
+/Users/imtiajahammad/Development/dotnetCore/TaskBasedAsynchronousProgramming/obj/Debug/net6.0/ref/TaskBasedAsynchronousProgramming.dll
